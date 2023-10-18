@@ -8,6 +8,6 @@ This is a project to demonstrate my SQL competency by using data from the Sakila
 
 * More complex queries such as SUBSTR, SELECT INFO, CREATE VIEW
 
-* Editing a table, creating a database (most relevant for SQL challenges)
+* Editing a table, creating a database
 * Constraints (ex. PRIMARY, AND FOREIGN KEYS, CASE WHEN, CHECK, UNIQUE, NOT NULL)
 * More complex queries (ex. PIVOT, PARTITION BY, OVER)
